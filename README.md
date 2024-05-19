@@ -55,3 +55,25 @@ git remote set-head origin main
 git branch --set-upstream-to=origin/main main
 git branch -d master
 git branch -d -r origin/master
+
+
+
+
+
+
+finally done
+===============
+git init
+19/05/24 06:12:22 git status
+  146  19/05/24 06:18:01 git config --global user.name "mdabdullah0"
+  147  19/05/24 06:18:23 git config --global user.email "give-email"
+  148  19/05/24 06:18:26 git status
+  151  19/05/24 06:19:55 git pull https://github.com/mdabdullah0/scripts.git
+  156  19/05/24 06:21:42 nano README.md
+  157  19/05/24 06:22:13 git status
+  158  19/05/24 06:22:32 git add *
+  159  19/05/24 06:22:36 git status
+  167  19/05/24 06:38:31 git commit -m "learning"
+  171  19/05/24 06:41:23 git remote add scripts https://github.com/mdabdullah0/scripts.git
+  173  19/05/24 06:41:37 git push scripts
+  174  19/05/24 06:42:03 git status
