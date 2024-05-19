@@ -7,7 +7,7 @@ Getting started with git and github
 Finally done
 ===============
 
-=
+
 Copied from my terminal so there is time and date stamp
 =
 
