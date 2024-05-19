@@ -77,3 +77,12 @@ git init
   171  19/05/24 06:41:23 git remote add scripts https://github.com/mdabdullah0/scripts.git
   173  19/05/24 06:41:37 git push scripts
   174  19/05/24 06:42:03 git status
+
+
+recursive
+==================
+
+git init
+git add
+git commit -m 'comment'
+git push 'BRANCH'
